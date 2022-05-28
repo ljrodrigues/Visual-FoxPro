@@ -2,31 +2,31 @@
 Close all
 Close databases all
 Close tables all
-Set Deleted    On
-Set Lock       Off  
+Set Deleted On
+Set Lock Off  
 Set Multilocks On
-Set Ansi       Off
-Set Talk       Off
-Set Safety     Off
-Set Confirm    Off
-Set Notify     Off
-Set Console    Off
-Set Bell       Off
-Set Exclusive  Off
-Set Hours      To 24
-SET PATH           TO Dados
-SET DATE           TO DMY 
-Set Date       To British
-SET CENTURY        ON
-SET DELETED           ON  
-SET CURRENCY       TO 'R$ ' 
-SET POINT          TO '.' 
-SET SEPARATOR      TO ','  
-Set Reprocess  To 2 Seconds 
+Set Ansi Off
+Set Talk Off
+Set Safety Off
+Set Confirm Off
+Set Notify Off
+Set Console Off
+Set Bell Off
+Set Exclusive Off
+Set Hours To 24
+SET PATH TO Dados
+SET DATE TO DMY 
+Set Date To British
+SET CENTURY ON
+SET DELETED ON  
+SET CURRENCY TO 'R$ ' 
+SET POINT TO '.' 
+SET SEPARATOR TO ','  
+Set Reprocess To 2 Seconds 
 SET REPROCESS TO AUTOMATIC
 SET REFRESH TO 5   
 SET EXCLUSIVE OFF  
-Set Sysmenu    To
+Set Sysmenu To
 Set Sysmenu off
 Set message on
 Set statu bar on
